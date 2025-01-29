@@ -2,7 +2,7 @@ from gtts import gTTS
 import os
 
 # Text to be converted to audio
-text = Hello, you've reached eunoiaAI. WE'RE ON A MISSION TO REVOLUTIONIZE HOW BUSINESSES INNOVATE WITH THE POWER OF ARTIFICIAL INTELLIGENCE! To learn more or schedule a personalized demo, please visit us at eunoia A I dot co. Otherwise, leave a message and Renee will respond ASAP.
+text = Hello, you've reached eunoia A I. WE'RE ON A MISSION TO REVOLUTIONIZE HOW BUSINESSES INNOVATE WITH THE POWER OF ARTIFICIAL INTELLIGENCE! To learn more or schedule a personalized demo, please visit us at eunoia A I dot co. Otherwise, leave a message and Renee will respond ASAP.
 
 # Language in which you want to convert
 language = 'en'
